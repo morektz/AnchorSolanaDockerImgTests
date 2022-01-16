@@ -13,3 +13,4 @@ Will be trying to run it inside gitpod
 
 # Commands and work 
 
+[HERE](/docz/work.md)
