@@ -10,3 +10,6 @@ Sun 16 Jan 2022 02:43:54 PM UTC
 This is for testing out [Anchor Docker Image](https://hub.docker.com/r/projectserum/build)
 
 Will be trying to run it inside gitpod
+
+# Commands and work 
+
